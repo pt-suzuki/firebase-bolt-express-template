@@ -1,6 +1,6 @@
-# firebase_express_template
+# firebase-bolt-express-template
 
-cloud functionにexpressを乗っけるテンプレート
+cloud functionにbolt+expressを乗っけるテンプレート
 
 ## firebaseへのデプロイ
 
